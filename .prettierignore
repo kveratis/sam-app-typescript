@@ -1,5 +1,5 @@
-dist
-coverage
+**/dist
+**/coverage
 node_modules
 .aws-sam
 /package-lock.json

@@ -1,4 +1,4 @@
 node_modules
 .aws-sam
-dist
-coverage
+**/dist
+**/coverage
